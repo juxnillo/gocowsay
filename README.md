@@ -5,6 +5,7 @@ CLI-Tool creada en Go
 ### Preview
 **Fortune Cow**
 ![Preview](src/preview.png)
+
 **Figlet Tux**
 ![Preview](src/previewtux.png)
 
