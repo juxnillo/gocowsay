@@ -154,7 +154,7 @@ func main() {
 
 	if info.Mode()&os.ModeCharDevice != 0 {
 		fmt.Println("El comando debe funcionar con las pipes")
-		fmt.Println("Uso: fortune | gocowsay")
+		fmt.Println("Usa fortune/figlet | gocowsay")
 		return
 	}
 
