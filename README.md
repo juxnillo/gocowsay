@@ -1,12 +1,11 @@
 # GoCowsay
-
-CLI-Tool creada en Go
+**CLI-Tool creada en Go**
 
 ## Preview
-**Fortune Cow**
+*Fortune Cow*
 ![Preview](src/preview.png)
 
-**Figlet Tux**
+*Figlet Tux*
 ![Preview](src/previewtux.png)
 
 ## Instalacion
