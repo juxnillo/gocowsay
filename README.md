@@ -2,6 +2,10 @@
 
 CLI-Tool creada en Go
 
+### Preview
+
+![Preview](preview.png)
+
 ## Instalacion
 Clona el repositorio en tu sistema y realiza un go build para añadirlo a tu sistema.
 ```
