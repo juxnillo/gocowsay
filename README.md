@@ -2,7 +2,7 @@
 
 CLI-Tool creada en Go
 
-### Preview
+## Preview
 **Fortune Cow**
 ![Preview](src/preview.png)
 
