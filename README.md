@@ -6,6 +6,7 @@ CLI-Tool creada en Go
 **Fortune Cow**
 ![Preview](src/preview.png)
 **Figlet Tux**
+![Preview](src/previewtux.png)
 
 ## Instalacion
 Clona el repositorio en tu sistema y realiza un go build para añadirlo a tu sistema.
